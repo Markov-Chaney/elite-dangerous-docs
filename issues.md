@@ -10,6 +10,12 @@ I've used this phrase because the forum uses this phrase; usually they only brea
 | Fleet Carrier bartender trading ("transaction error") | 67143 | x | x | x |
 | Fleet Carrier Odyssey materials storage and transfer ("the selected resource is no longer available") | 67889 | x | x | x |
 
+## Irritating
+
+| Description | Official issue / useful threads | Workarounds | Notes | Five |
+| :--- | --- | --- | --- | --- |
+| Delays when collecting (via limpets) or scooping pods, canisters, fragments | [67049](https://issues.frontierstore.net/issue-detail/67049) | [Thread](https://forums.frontier.co.uk/threads/collector-limpets-getting-stuck-at-the-cargo-scoop-the-apparent-cause-and-a-workaround.629224/page-2) | Originally reported as a Thargoid-specific issue  | x |
+
 ## Cosmetic
 
 | Description | Official issue / useful threads | Workarounds | Notes | Five |
