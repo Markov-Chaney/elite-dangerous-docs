@@ -16,6 +16,7 @@ I've used this phrase because the forum uses this phrase; usually they only brea
 | Description | Official issue / useful threads | Workarounds | Notes | Five |
 | :--- | --- | --- | --- | --- |
 | Delays when collecting (via limpets) or scooping pods, canisters, fragments | [67049](https://issues.frontierstore.net/issue-detail/67049) | [Thread](https://forums.frontier.co.uk/threads/collector-limpets-getting-stuck-at-the-cargo-scoop-the-apparent-cause-and-a-workaround.629224/page-2) | Originally reported as a Thargoid-specific issue  | x |
+| BGS expansion stuck at 75.1% | [69655](https://issues.frontierstore.net/issue-detail/69655) [Forum comment](https://forums.frontier.co.uk/threads/bgs-since-ascendancy.630600/post-10499834) | --- | Started before Ascendancy | --- |
 
 ## Cosmetic
 
