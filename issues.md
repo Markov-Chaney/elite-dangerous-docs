@@ -33,3 +33,14 @@ I've used this phrase because the forum uses this phrase; usually they only brea
 # Ongoing troubleshooting
 
 Freeform notes tracking forum discussions, theories, people trying things out...
+
+## [69518](https://issues.frontierstore.net/issue-detail/69158) (Exploration/Cartography) on one page:
+### In-depth
+ - Assignment to sell in Liu Bajara / Fortified
+ - Data from "around Ngurii" including 3 ELWs, 7m credits
+ - Did not produce merits in Silva Terminal
+ - DID produce credits in Cmdr's own FC
+### Other confirmations
+ - 3m+ of cartography data at Olokulu and received no merits
+ - Sietynas (Kaine Fortified Region) - Sold 500k worth of data and got no merits. Powerplay map indicates "hand in cartography data" is a local activity. Worked before last set of patches!
+ - Another user confirms it stopped working after the patch
