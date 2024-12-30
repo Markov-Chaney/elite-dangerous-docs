@@ -15,20 +15,22 @@ I've used this phrase because the forum uses this phrase; usually they only brea
 
 ### Irritating
 
-| Description | Official issue / useful threads | Workarounds | Notes | Five |
-| :--- | --- | --- | --- | --- |
-| Delays when collecting (via limpets) or scooping pods, canisters, fragments | [67049](https://issues.frontierstore.net/issue-detail/67049) | [Thread](https://forums.frontier.co.uk/threads/collector-limpets-getting-stuck-at-the-cargo-scoop-the-apparent-cause-and-a-workaround.629224/page-2) | Originally reported as a Thargoid-specific issue  | x |
-| BGS expansion stuck at 75.1% | [69655](https://issues.frontierstore.net/issue-detail/69655) [Forum comment](https://forums.frontier.co.uk/threads/bgs-since-ascendancy.630600/post-10499834) | --- | Started before Ascendancy | --- |
+| Description | Official issue / useful threads | Workarounds | Notes | 
+| :--- | --- | --- | --- | 
+| Delays when collecting (via limpets) or scooping pods, canisters, fragments | [67049](https://issues.frontierstore.net/issue-detail/67049) | [Thread](https://forums.frontier.co.uk/threads/collector-limpets-getting-stuck-at-the-cargo-scoop-the-apparent-cause-and-a-workaround.629224/page-2) | Originally reported as a Thargoid-specific issue  | 
+| BGS expansion stuck at 75.1% | [69655](https://issues.frontierstore.net/issue-detail/69655) [Forum comment](https://forums.frontier.co.uk/threads/bgs-since-ascendancy.630600/post-10499834) | --- | Started before Ascendancy |
+| Cannot accept powerplay packages because of Odyssey mats in them | [70645](https://issues.frontierstore.net/issue-detail/70645) | x | Confirmed | 
+| Cobra Mk V too big for Odyssey surface settlement landing pads | [70727](https://issues.frontierstore.net/issue-detail/70727) | | For example Aoki Metallurgic Hub and Bogacki Mining Enterprise, in the Maia system |
 
 ### Cosmetic
 
-| Description | Official issue / useful threads | Workarounds | Notes | Five |
-| :--- | --- | --- | --- | --- |
-| Galaxy map filter resets (including with KBM) | 67503 [Ack] 67333 is an unmarked dupe | x | x | x |
-| Galaxy map filters cannot be changed with controller  | 67011 [Ack] 67149 & 67133 are marked a dupe of this one, but are dupes 67503]  | x | x | x |
-| Flickering shadows / shadow artifacts | [63484](https://issues.frontierstore.net/issue-detail/63484) | | | |
-| Incorrect thrust vectoring on the Mandalay | 67300 | x | x | x |
-
+| Description | Official issue / useful threads | Workarounds | Notes |
+| :--- | --- | --- | --- |
+| Galaxy map filter resets (including with KBM) | 67503 [Ack] 67333 is an unmarked dupe | x | x |
+| Galaxy map filters cannot be changed with controller  | 67011 [Ack] 67149 & 67133 are marked a dupe of this one, but are dupes 67503]  | x | x |
+| Flickering shadows / shadow artifacts | [63484](https://issues.frontierstore.net/issue-detail/63484) | | |
+| Incorrect thrust vectoring on the Mandalay | 67300 | x | x | 
+| Repeating Clicking Sound Doesn't stop until game is restarted | [70714](https://issues.frontierstore.net/issue-detail/70714) | x | Also described as ticking [in this thread](https://forums.frontier.co.uk/threads/annoying-ticking.616497/page-2#post-10481217) | 
 
 # Ongoing troubleshooting
 
