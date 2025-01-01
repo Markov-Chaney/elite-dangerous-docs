@@ -12,6 +12,7 @@ I've used this phrase because the forum uses this phrase; usually they only brea
 | Fleet Carrier bartender trading ("transaction error") | 67143 | x | x | 
 | Fleet Carrier Odyssey materials storage and transfer ("the selected resource is no longer available") | 67889 | x | x | 
 | Issues with sale of Exploration data  | [69645](https://issues.frontierstore.net/issue-detail/69645) [69269](https://issues.frontierstore.net/issue-detail/69269) [69550](https://issues.frontierstore.net/issue-detail/69550) [69460](https://issues.frontierstore.net/issue-detail/69460) [69158](https://issues.frontierstore.net/issue-detail/69158) // 69158 has a comment which is based on a [forum post here](https://forums.frontier.co.uk/threads/elite-dangerous-update-19-02-28-november-2024.630817/post-10498356) | Check that the *entire* page can be sold before handing in (if you are too close for some data, sell that off separately first) | In [this comment](https://forums.frontier.co.uk/threads/elite-dangerous-powerplay-2-0-questions-and-answers.628260/post-10500457) a forum user theorises that only full pages of data can be sold, and any system with unsaleable data will nerf the entire page | 
+| Orange Sidewinder | [69725](https://issues.frontierstore.net/issue-detail/69725) (internal ticket ID 265714) | [69737](https://issues.frontierstore.net/issue-detail/69737) fixed by rebooting router / There are multiple comments regarding Sirius and Sol specifically | [69789](https://issues.frontierstore.net/issue-detail/69789) good reports | 
 
 ### Irritating
 
